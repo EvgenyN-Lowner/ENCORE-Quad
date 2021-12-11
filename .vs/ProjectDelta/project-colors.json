@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8898ea18-743a-15ef-5df5-284349369c3f": {
+      "ProjectGuid": "8898ea18-743a-15ef-5df5-284349369c3f",
+      "DisplayName": "raylib",
+      "ColorIndex": 0
+    },
+    "26057112-1268-00b7-bbed-386da72fcc39": {
+      "ProjectGuid": "26057112-1268-00b7-bbed-386da72fcc39",
+      "DisplayName": "ProjectDelta",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
